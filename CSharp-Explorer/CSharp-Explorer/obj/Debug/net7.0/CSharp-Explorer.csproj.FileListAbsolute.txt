@@ -1,0 +1,14 @@
+C:\Users\mathe\develop\formacao-dotnet-developer-dio\CSharp-Explorer\CSharp-Explorer\bin\Debug\net7.0\CSharp-Explorer.exe
+C:\Users\mathe\develop\formacao-dotnet-developer-dio\CSharp-Explorer\CSharp-Explorer\bin\Debug\net7.0\CSharp-Explorer.deps.json
+C:\Users\mathe\develop\formacao-dotnet-developer-dio\CSharp-Explorer\CSharp-Explorer\bin\Debug\net7.0\CSharp-Explorer.runtimeconfig.json
+C:\Users\mathe\develop\formacao-dotnet-developer-dio\CSharp-Explorer\CSharp-Explorer\bin\Debug\net7.0\CSharp-Explorer.dll
+C:\Users\mathe\develop\formacao-dotnet-developer-dio\CSharp-Explorer\CSharp-Explorer\bin\Debug\net7.0\CSharp-Explorer.pdb
+C:\Users\mathe\develop\formacao-dotnet-developer-dio\CSharp-Explorer\CSharp-Explorer\obj\Debug\net7.0\CSharp-Explorer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\develop\formacao-dotnet-developer-dio\CSharp-Explorer\CSharp-Explorer\obj\Debug\net7.0\CSharp-Explorer.AssemblyInfoInputs.cache
+C:\Users\mathe\develop\formacao-dotnet-developer-dio\CSharp-Explorer\CSharp-Explorer\obj\Debug\net7.0\CSharp-Explorer.AssemblyInfo.cs
+C:\Users\mathe\develop\formacao-dotnet-developer-dio\CSharp-Explorer\CSharp-Explorer\obj\Debug\net7.0\CSharp-Explorer.csproj.CoreCompileInputs.cache
+C:\Users\mathe\develop\formacao-dotnet-developer-dio\CSharp-Explorer\CSharp-Explorer\obj\Debug\net7.0\CSharp-Explorer.dll
+C:\Users\mathe\develop\formacao-dotnet-developer-dio\CSharp-Explorer\CSharp-Explorer\obj\Debug\net7.0\refint\CSharp-Explorer.dll
+C:\Users\mathe\develop\formacao-dotnet-developer-dio\CSharp-Explorer\CSharp-Explorer\obj\Debug\net7.0\CSharp-Explorer.pdb
+C:\Users\mathe\develop\formacao-dotnet-developer-dio\CSharp-Explorer\CSharp-Explorer\obj\Debug\net7.0\CSharp-Explorer.genruntimeconfig.cache
+C:\Users\mathe\develop\formacao-dotnet-developer-dio\CSharp-Explorer\CSharp-Explorer\obj\Debug\net7.0\ref\CSharp-Explorer.dll

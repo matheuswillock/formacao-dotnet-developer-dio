@@ -1,18 +1,18 @@
 ﻿using CSharp_Explorer.propriedades.Models;
 
-Person person1 = new Person("Matheus", "Willock", 26);
+var person1 = new Person("Matheus", "Willock", 26);
 person1.Apresentar();
 
-Person person2 = new Person("Luffy", "Monkey", 17);
+var person2 = new Person("Luffy", "Monkey", 17);
 person2.Apresentar();
 
-Person person3 = new Person("Zoro", "Roronoa", 21);
+var person3 = new Person("Zoro", "Roronoa", 21);
 person3.Apresentar();
 
-Person person4 = new Person("Robin", "Nico", 25);
+var person4 = new Person("Robin", "Nico", 25);
 person4.Apresentar();
 
-Course course = new Course("Course 1");
+var course = new Course("Course 1");
 
 Console.WriteLine($"\n{course.Name} is created!");
 
@@ -25,7 +25,7 @@ course.AddStudent(person4);
 
 Console.WriteLine("---------------------------\n\nview all Students in the course\n\n---------------------------");
 
-course.AllStudents();
+course.ViewAllStudents();
 
 Console.WriteLine($"Students: {course.CountStudentsFull()}");
 
@@ -35,5 +35,5 @@ course.RemoveStudent(person2);
 
 Console.WriteLine("---------------------------\n\nview all Students in the course\n\n---------------------------");
 
-course.AllStudents();
+course.ViewAllStudents();
 Console.WriteLine($"Students: {course.CountStudentsFull()}");

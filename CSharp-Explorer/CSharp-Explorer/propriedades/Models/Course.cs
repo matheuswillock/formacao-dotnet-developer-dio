@@ -19,12 +19,16 @@ public class Course
 
     public int CountStudentsFull() => Students.Count;
 
-    public void AllStudents()
+    public void ViewAllStudents()
     {
-        foreach (var student in Students)
+        Console.WriteLine($"Alunos do curso: {Name}");
+
+        for (int i = 0; i < Students.Count; i++)
         {
-            Console.WriteLine($"Student {student.FullName} ");
+            Console.WriteLine($"{1 + i} - {Students[i].FullName} "); 
         }
+        
+        
     }
 
     public void RemoveStudent(Person student)
